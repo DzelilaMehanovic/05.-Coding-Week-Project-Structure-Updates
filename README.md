@@ -1,4 +1,4 @@
-# web-project-2
+# 05.-Coding-Week-Project-Structure-Updates
 
 
 EDITOR
